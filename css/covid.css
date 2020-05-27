@@ -1,0 +1,8 @@
+.bisablog-card {padding: 5%; border:1px solid #eaeaea; background:#f4f4f4;border-radius:10px}
+.bisablog-card p {color:#fff}
+.bisablog-positif {background:#e53935}
+.bisablog-sembuh {background:#43a047}
+.bisablog-meninggal {padding:10px 7px; background:#546e7a}
+.bisablog-positif, .bisablog-sembuh {padding:10px 7px; margin-bottom:1em}
+.bisablog-info {text-align:center}
+.bisablog-card p{font-weight:bold}
